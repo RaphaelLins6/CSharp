@@ -42,7 +42,8 @@ namespace CursoCSharp.Fundamentos
 
             Console.WriteLine("Nome da pessoa: " + pessoa.Nome);
             Console.WriteLine("Idade da pessoa: " + pessoa.Idade);
-
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
             // Limitações da inferência de tipo
             // A inferência de tipo só pode ser usada para variáveis locais dentro de métodos.
             // A inferência de tipo requer que a variável seja inicializada no momento da declaração.

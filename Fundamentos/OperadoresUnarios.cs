@@ -26,6 +26,8 @@ namespace CursoCSharp.Fundamentos {
             // Operador de subtração (pré-fixado)
             --numero2;
             Console.WriteLine(numero2);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
  }

@@ -12,8 +12,8 @@ namespace CursoCSharp.Fundamentos
             Console.Write("Primeiro ");
             Console.WriteLine("Programa");
             Console.WriteLine("Terminou!");
-            Console.WriteLine("Pressione qualquer tecla para sair...");
-            Console.ReadKey();
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

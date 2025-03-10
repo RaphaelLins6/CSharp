@@ -54,6 +54,8 @@ namespace CursoCSharp.Fundamentos
                 Console.WriteLine($"É estudante: {ehEstudante}");
             } catch (FormatException) {
                 Console.WriteLine("Valor booleano inválido. Digite 'true' ou 'false'.");
+                Console.WriteLine("Pressione Enter para continuar...");
+                Console.ReadLine();
             }
         }
     }

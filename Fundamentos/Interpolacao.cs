@@ -55,6 +55,8 @@ namespace CursoCSharp.Fundamentos
 
             string caminho = @"C:\Arquivos\Documentos"; // A barra invertida não precisa ser escapada
             Console.WriteLine(caminho);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

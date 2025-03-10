@@ -28,6 +28,8 @@ namespace CursoCSharp.Fundamentos
             int numDiv = 7;
             numDiv /= 2;
             Console.WriteLine("O operador de atribuição da divisão é = " + numDiv);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

@@ -57,6 +57,8 @@ namespace CursoCSharp.Fundamentos
         // Método da classe 'Pessoa'
         public void Apresentar() {
             Console.WriteLine($"Meu nome é {Nome} e eu tenho {Idade} anos.");
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         } 
     }
 }

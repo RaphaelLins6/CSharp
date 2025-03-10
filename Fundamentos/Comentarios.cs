@@ -19,6 +19,8 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("Para se comentar em C# se utiliza a sintaxe da sehuinte forma: \"// Comentário\" ");
             Console.WriteLine("Comentários de múltiplas linhas: Ctrl + K + C");
             Console.WriteLine("Descomentar: Ctrl + K + U");
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

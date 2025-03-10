@@ -21,6 +21,8 @@ namespace CursoCSharp.Fundamentos
 
             int inteiro = 256;
             Console.WriteLine(inteiro.ToString("D10"));
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

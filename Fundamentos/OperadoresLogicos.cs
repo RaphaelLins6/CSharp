@@ -22,6 +22,8 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("Comprou a Tv de 32 polegadas? {0}", comprouTv32);
 
             Console.WriteLine("Mais saudável? {0}", !comprouSorvete);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

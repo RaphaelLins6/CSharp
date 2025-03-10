@@ -26,6 +26,8 @@ namespace CursoCSharp.Fundamentos
             int impar = 55;
             Console.WriteLine("{0}/2 tem resto {1}", par, par % 2);
             Console.WriteLine("{0}/2 tem resto {1}", impar, impar % 2);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }

@@ -58,6 +58,8 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("PI: " + PI);
             Console.WriteLine("Dias da semana: " + DIAS_DA_SEMANA);
             Console.WriteLine("Nome da aplicação: " + NOME_APLICACAO);
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
 
             // Tentativa de alteração de valor de constante (resultará em erro de compilação):
             // PI = 3.14; // Erro! Constantes não podem ser alteradas.
