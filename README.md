@@ -2,33 +2,33 @@
 
 ### Problema:
     
-Este exercício tem como objetivo fornecer uma introdução prática aos conceitos básicos da lógica de programação utilizando a linguagem C#. 
-Através de exemplos e atividades, você aprenderá sobre os fundamentos da programação, tipos de dados, identificadores, expressões e operadores.
+Este exercÃ­cio tem como objetivo fornecer uma introduÃ§Ã£o prÃ¡tica aos conceitos bÃ¡sicos da lÃ³gica de programaÃ§Ã£o utilizando a linguagem C#. 
+AtravÃ©s de exemplos e atividades, vocÃª aprenderÃ¡ sobre os fundamentos da programaÃ§Ã£o, tipos de dados, identificadores, expressÃµes e operadores.
 
 ### Conceitos Abordados:
 
-* **Fundamentos da Programação**: Uma visão geral dos princípios básicos da programação, incluindo a estrutura de um programa em C# e o fluxo de controle.
-* **Tipos de Dados**: Exploração dos tipos de dados primitivos em C#, como `int`, `double`, `string` e `bool`, e como utilizá-los para representar diferentes tipos de informação.
-* **Identificadores**: Regras para nomear variáveis, constantes e outros elementos do programa.
-* **Expressões**: Construção de expressões utilizando valores, variáveis e operadores para realizar cálculos e comparações.
+* **Fundamentos da ProgramaÃ§Ã£o**: Uma visÃ£o geral dos princÃ­pios bÃ¡sicos da programaÃ§Ã£o, incluindo a estrutura de um programa em C# e o fluxo de controle.
+* **Tipos de Dados**: ExploraÃ§Ã£o dos tipos de dados primitivos em C#, como `int`, `double`, `string` e `bool`, e como utilizÃ¡-los para representar diferentes tipos de informaÃ§Ã£o.
+* **Identificadores**: Regras para nomear variÃ¡veis, constantes e outros elementos do programa.
+* **ExpressÃµes**: ConstruÃ§Ã£o de expressÃµes utilizando valores, variÃ¡veis e operadores para realizar cÃ¡lculos e comparaÃ§Ãµes.
 * **Operadores**:
-    * **Atribuição**: Utilização do operador `=` para atribuir valores a variáveis.
-    * **Aritméticos**: Realização de operações matemáticas básicas como adição, subtração, multiplicação e divisão.
-    * **Relacionais**: Comparação de valores utilizando operadores como `==`, `!=`, `>`, `<`.
-    * **Lógicos**: Combinação de expressões booleanas utilizando operadores como `&&` (E), `||` (OU) e `!` (NÃO).
+    * **AtribuiÃ§Ã£o**: UtilizaÃ§Ã£o do operador `=` para atribuir valores a variÃ¡veis.
+    * **AritmÃ©ticos**: RealizaÃ§Ã£o de operaÃ§Ãµes matemÃ¡ticas bÃ¡sicas como adiÃ§Ã£o, subtraÃ§Ã£o, multiplicaÃ§Ã£o e divisÃ£o.
+    * **Relacionais**: ComparaÃ§Ã£o de valores utilizando operadores como `==`, `!=`, `>`, `<`.
+    * **LÃ³gicos**: CombinaÃ§Ã£o de expressÃµes booleanas utilizando operadores como `&&` (E), `||` (OU) e `!` (NÃƒO).
 
 ## Autores
 
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6) - Raphael Lins (RGM:27797660)
-- [@jotape99](https://www.github.com/jotape99) - João Pedro (RGM:28167333)
-- [@joaogkt](https://www.github.com/joaogkt) - João Gabriel (RGM:28017188)
+- [@jotape99](https://www.github.com/jotape99) - JoÃ£o Pedro (RGM:28167333)
+- [@joaogkt](https://www.github.com/joaogkt) - JoÃ£o Gabriel (RGM:28017188)
 
-## Referências
+## ReferÃªncias
 
-* **Microsoft Docs**: [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/) - Documentação oficial da linguagem C# pela Microsoft.
-* **Gemini (Modelo de Linguagem)**: Assistência e geração de código para este documento.
-* * **Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
+* **Microsoft Docs**: [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/) - DocumentaÃ§Ã£o oficial da linguagem C# pela Microsoft.
+* **Gemini (Modelo de Linguagem)**: AssistÃªncia e geraÃ§Ã£o de cÃ³digo para este documento.
+* **Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
 
-## Licença
+## LicenÃ§a
 
-Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE Version 3
+Este projeto estÃ¡ licenciado sob a GNU GENERAL PUBLIC LICENSE Version 3
