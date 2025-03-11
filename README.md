@@ -1,5 +1,7 @@
 # Atividade
 
+Atividade da faculdade - Matéria: Programação de computadores
+
 ### Problema:
     
 Este exercício tem como objetivo fornecer uma introdução prática aos conceitos básicos da lógica de programação utilizando a linguagem C#. 
@@ -19,6 +21,7 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 
 ## Autores
 
+**Turma de ciência da computação - UDF**
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6) - Raphael Lins (RGM:27797660)
 - [@jotape99](https://www.github.com/jotape99) - João Pedro (RGM:28167333)
 - [@joaogkt](https://www.github.com/joaogkt) - João Gabriel (RGM:28017188)
