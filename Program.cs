@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
+using CursoCSharp.EstruturasDeControle;
 
 namespace CursoCSharp {
     class Program {
@@ -10,17 +11,28 @@ namespace CursoCSharp {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Váriaveis e Constatntes - Fundamentos", VariaveisEConstantes.Executar},
-                {"Inferencias de tipo - Fundamentos", Inferencia.Executar},
-                {"Interpolação de strings - Fundamentos", Interpolacao.Executar},
-                {"Notação de ponto - Fundamentos", Notacao.Executar},
+                {"Inferencias de Tipo - Fundamentos", Inferencia.Executar},
+                {"Interpolação de Strings - Fundamentos", Interpolacao.Executar},
+                {"Notação de Ponto - Fundamentos", Notacao.Executar},
                 {"Lendo Dados Do Console - Fundamentos", LendoDadosDoConsole.Executar},
-                {"Formatando números - Fundamentos", FormatandoNumeros.Executar},
-                {"Operadores aritiméticos - Fundamentos", OperadoresAritimeticos.Executar},
-                {"Operadores relacionais - Fundamentos", OperadoresRelacionais.Executar},
-                {"Operadores logicos - Fundamentos", OperadoresLogicos.Executar},
-                {"Operadores de atribuição - Fundamentos", OperadoresAtribuicao.Executar},
-                {"Operadores unários - Fundamentos", OperadoresUnarios.Executar},
-                {"Operadores ternários - Fundamentos", OperadoresTernarios.Executar},
+                {"Formatando Números - Fundamentos", FormatandoNumeros.Executar},
+                {"Operadores Aritiméticos - Fundamentos", OperadoresAritimeticos.Executar},
+                {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
+                {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores de Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
+                {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
+                {"Operadores Ternários - Fundamentos", OperadoresTernarios.Executar},
+                {"Estrutura IF - Estruturas de controle", Estruturaif.Executar},
+                {"Estrutura IF-ELSE - Estruturas de controle", Estruturaifelse.Executar},
+                {"Estrutura IF-ELSEIF - Estruturas de controle", Estruturaifelseif.Executar},
+                {"Estrutura Switch - Estruturas de controle", Estruturaswitch.Executar},
+                {"Estrutura While - Estruturas de controle", Estruturawhile.Executar},
+                {"Estrutura Do While - Estruturas de controle", Estruturadowhile.Executar},
+                {"Estrutura For - Estruturas de controle", Estruturafor.Executar},
+                {"Estrutura For Each - Estruturas de controle", Estruturaforeach.Executar},
+                {"Estrutura Break - Estruturas de controle", Estruturabreak.Executar},
+                {"Estrutura Continue - Estruturas de controle", Estruturacontinue.Executar},
+
             });
 
             central.SelecionarEExecutar();
