@@ -19,6 +19,7 @@ namespace CursoCSharp {
                 {"Notação de Ponto - Fundamentos", Notacao.Executar},
                 {"Lendo Dados Do Console - Fundamentos", LendoDadosDoConsole.Executar},
                 {"Formatando Números - Fundamentos", FormatandoNumeros.Executar},
+                {"Conversões - Fundamentos", Conversoes.Executar},
                 {"Operadores Aritiméticos - Fundamentos", OperadoresAritimeticos.Executar},
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
                 {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
@@ -40,7 +41,7 @@ namespace CursoCSharp {
 
                 // Classes e métodos
                 {"Membros - Classes e métodos", Membros.Executar},
-                //{"Construtores - Classes e métodos", Construtores.Executar},
+                {"Construtores - Classes e métodos", Construtores.Executar},
                 //{"Métodos com Retorno - Classes e métodos", MetodosComRetorno.Executar},
                 //{"Métodos Estáticos - Classes e métodos", MetodosEstaticos.Executar},
                 //{"Atributos Estáticos - Classes e métodos", AtributosEstaticos.Executar},
