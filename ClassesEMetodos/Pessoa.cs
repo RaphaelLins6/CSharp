@@ -8,7 +8,7 @@ namespace CursoCSharp.ClassesEMetodos
 {
     class Pessoa
     {
-        public string Nome;
+        public string? Nome;
         public int Idade;
 
         public string Apresentar()
