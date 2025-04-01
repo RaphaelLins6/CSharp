@@ -7,6 +7,11 @@ namespace CursoCSharp.ClassesEMetodos
 {
     public class Props
     {
+        // Propriedades com validação
+        // As propriedades com validação são usadas para garantir que os valores atribuídos a elas atendam a certos critérios.
+        // No exemplo abaixo, a propriedade Preco tem uma validação que impede que um preço negativo seja atribuído.
+        // Isso é feito usando um bloco set que verifica se o valor é menor que zero e lança uma exceção se for o caso.
+        // As propriedades com validação são úteis para garantir a integridade dos dados e evitar erros no código.
         public class Computador{
             double preco;
             public double Preco{
