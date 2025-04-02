@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.ClassesEMetodos 
 {
-	class Carro {
-        public string Modelo;
-        public string Fabricante;
+	public class Carro {
+        public string? Modelo;
+        public string? Fabricante;
         public int Ano;
 
         public Carro(string modelo, string fabricante, int ano) {
@@ -18,9 +18,11 @@ namespace CursoCSharp.ClassesEMetodos
         }
 
         public Carro() {
+            Modelo = null;
+            Fabricante = null;
+        }
 
         }
-    }
 
     class Construtores {
         public static void Executar() {
@@ -44,8 +46,6 @@ namespace CursoCSharp.ClassesEMetodos
             var carro3 = new Carro("Uno", "Fiat", 2019);
             Console.WriteLine($"Modelo: {carro3.Modelo}, Fabricante: {carro3.Fabricante}, Ano: {carro3.Ano}");
             
-
-
             Console.WriteLine("Pressione Enter para continuar...");
             Console.ReadLine();
         }
