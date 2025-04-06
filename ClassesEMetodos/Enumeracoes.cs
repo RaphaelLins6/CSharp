@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.ClassesEMetodos
 {
+    // Enum é um tipo de dado que representa um conjunto de valores nomeados.
+    // É uma forma de criar um tipo de dado personalizado que pode ter valores fixos e nomeados.
     public enum TipoJogador { Armador, AlaArmador, Ala, AlaPivô, Pivô };
 
     public class Jogador
