@@ -32,6 +32,3 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 * **🤖 Gemini (Modelo de Linguagem)**: Assistência e geração de código para este documento.
 * **📚 Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a **GNU GENERAL PUBLIC LICENSE Version 3**.

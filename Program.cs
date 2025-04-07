@@ -53,7 +53,7 @@ namespace CursoCSharp {
                 {"Atributos Readonly - Classes e métodos", AtributosReadonly.Executar},
                 {"Enum - Classes e métodos", Enumeracoes.Executar},
                 {"Struct - Classes e métodos", Struct.Executar},
-                //{"Struct Vs Classe - Classes e métodos", StructVsClasse.Executar},
+                {"Struct Vs Classe - Classes e métodos", StructVsClasse.Executar},
                 //{"Valor Vs Referência - Classes e métodos", ValorVsReferencia.Executar},
                 //{"Parâmetros por Referência - Classes e métodos", ParametrosPorReferencia.Executar},
                 //{"Parâmetros com Valor Padrão - Classes e métodos", ParametrosComValorPadrao.Executar},
