@@ -29,6 +29,6 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 ## 📖 Referências
 
 * **📘 Microsoft Docs**: [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/) - Documentação oficial da linguagem C# pela Microsoft.
-* **🤖 Gemini (Modelo de Linguagem)**: Assistência e geração de código para este documento.
+* **🤖 Gemini e Copilot**: Assistência e geração de código para este documento.
 * **📚 Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
 
