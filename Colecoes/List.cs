@@ -17,10 +17,27 @@ namespace CursoCSharp.Colecoes
         public class Produto {
             public string Nome;
             public double Preco;
+
             public Produto(string nome, double preco)
             {
                 Nome = nome;
                 Preco = preco;
+            }
+
+            public override bool Equals(object? obj)
+            // Sobrescrevendo o método Equals para comparar dois objetos Produto
+            {
+                if (obj == null || GetType() != obj.GetType())
+                    return false;
+
+                Produto outro = (Produto)obj;
+                return Nome == outro.Nome && Preco == outro.Preco;
+            }
+
+            public override int GetHashCode()
+            {
+                // Combine hash codes of Nome and Preco for a unique hash
+                return Nome.GetHashCode() ^ Preco.GetHashCode();
             }
         }
         public static void Executar(){
