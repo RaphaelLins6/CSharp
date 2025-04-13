@@ -7,12 +7,25 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CursoCSharp.OO {
-    class EncapsulamentO 
+    class Encapsulamento 
     {
+        /// Encapsulamento:
+        /// O encapsulamento é um dos pilares da programação orientada a objetos. Ele se refere à prática de restringir o acesso a certos componentes de um objeto, permitindo que apenas 
+        /// métodos específicos possam interagir com esses componentes. Isso ajuda a proteger os dados e a manter a integridade do objeto.
+        /// No C#, o encapsulamento é implementado usando modificadores de acesso, como `private`, `protected`, `internal` e `public`. Esses modificadores controlam a visibilidade 
+        /// dos membros de uma classe (atributos e métodos) em relação a outras classes.
+        /// O modificador `private` indica que o membro só pode ser acessado dentro da própria classe. O modificador `protected` permite o acesso apenas dentro da classe e em classes 
+        /// derivadas. O modificador `internal` permite o acesso dentro do mesmo assembly, enquanto o modificador `public` permite o acesso de qualquer lugar.
+        /// O encapsulamento é importante porque ajuda a proteger os dados de um objeto, garantindo que eles só possam ser acessados e modificados de maneiras controladas. Isso reduz o 
+        /// risco de erros e torna o código mais fácil de entender e manter.
+        /// Além disso, o encapsulamento permite que os desenvolvedores alterem a implementação interna de uma classe sem afetar o código que a utiliza, desde que a interface pública 
+        /// permaneça a mesma. Isso facilita a manutenção e a evolução do software ao longo do tempo.
+        /// O encapsulamento é um conceito fundamental na programação orientada a objetos e é amplamente utilizado em linguagens como C#.
         public class Peladeiro : Jogadores {
             public Peladeiro(string nome, int idade, string posicao, int numeroCamisa) : base(nome, idade, posicao, numeroCamisa) {
             }
-            public new void MostrarDados() {
+
+            public new void MostrarDados() { 
                 Console.WriteLine(" ");
                 Console.WriteLine("Dados do Peladeiro:");
                 Console.WriteLine($"Nome: {Nome}");
@@ -29,8 +42,9 @@ namespace CursoCSharp.OO {
         }
 
         public class semiProfissional {
+        
             public readonly Jogadores jogador = new Jogadores("Raphael", 26, "Armador", 66);
-
+            
             public void MostrarDados() {
                 Console.WriteLine(" ");
                 Console.WriteLine("Dados do Peladeiro:");
@@ -61,6 +75,13 @@ namespace CursoCSharp.OO {
             Jogadores Peladeiro = new Peladeiro("Nicholas", 26, "Ala-Armador", 6);
             Peladeiro.MostrarDados();
             Console.WriteLine(" ");
+
+            Jogadores Prospecto = new Prospecto("Dois mil", 25, "Armador", 24);
+            Prospecto.MostrarDados();
+            Console.WriteLine(" ");
+
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }
