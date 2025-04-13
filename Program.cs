@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
+using CursoCSharp;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 
-namespace CursoCSharp {
-    class Program {
-        static void Main(string[] args) {
-            var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+
+var central = new CentralDeExercicios(new Dictionary<string, Action>() {
 
                 // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
@@ -72,10 +71,12 @@ namespace CursoCSharp {
 
                 // Orientação a Objetos
                 {"Herança - OO", Herança.Executar},
+                {"Construtor This - OO", ConstrutorThis.Executar},
+                {"Encapsulamento - OO", EncapsulamentO.Executar},
+                //{"Polimorfismo - OO", Polimorfismo.Executar},
+                //{"Abstract - OO", Abstract.Executar},
+                //{"Interface - OO", Interface.Executar},
                 
             });
 
-            central.SelecionarEExecutar();
-        }
-    }
-}
+central.SelecionarEExecutar();
