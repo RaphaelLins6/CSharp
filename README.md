@@ -23,13 +23,13 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" /> &nbsp;&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="60" /> &nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> &nbsp;&nbsp;
 
 ## 🚀 Como Utilizar o Repositório
 
 1. **📥 Clone este repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. **📂 Acesse a pasta do projeto:**
 
