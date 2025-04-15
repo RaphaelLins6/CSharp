@@ -57,3 +57,8 @@ cd nome-da-pasta
 * **🤖 ChatGPT, Gemini e Copilot**: Assistência e geração de código para este documento.
 * **📚 Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
 
+## 📜 Licença
+
+Este projeto é livre para uso e modificação. Contribuições são bem-vindas! 😊
+
+---
