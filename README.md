@@ -29,7 +29,7 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 
 1. **📥 Clone este repositório:**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RaphaelLins6/CSharp.git
 ```
 
 2. **📂 Acesse a pasta do projeto:**
