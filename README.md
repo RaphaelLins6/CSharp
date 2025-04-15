@@ -22,7 +22,7 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" /> &nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="50"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> &nbsp;&nbsp;
 
 ## 🚀 Como Utilizar o Repositório
