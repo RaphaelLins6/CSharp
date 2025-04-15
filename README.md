@@ -19,6 +19,30 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
     * **🔗 Relacionais**: Comparação de valores utilizando operadores como `==`, `!=`, `>`, `<`.
     * **🔌 Lógicos**: Combinação de expressões booleanas utilizando operadores como `&&` (E), `||` (OU) e `!` (NÃO).
 
+## 🛠️ Tecnologias Utilizadas
+
+<p align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" /> &nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="60" /> &nbsp;&nbsp; 
+
+## 🚀 Como Utilizar o Repositório
+
+1. **📥 Clone este repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2. **📂 Acesse a pasta do projeto:**
+
+```bash
+cd nome-da-pasta
+```
+
+3. **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
+
+4. **▶️ Execute os arquivos .cs individualmente ou dentro de um projeto de console C#.**
+
+5. **😄 Explore e modifique o código para testar seu conhecimento!**
+
 ## 👥 Autores
 
 **Turma de ciência da computação - UDF**
