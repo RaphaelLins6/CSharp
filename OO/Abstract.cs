@@ -61,6 +61,9 @@ namespace CursoCSharp.OO
             Console.WriteLine($"Atividades: {Futebol.Atividades()}");
             Console.WriteLine($"Localização: {Futebol.Localizacao()}");
             Console.WriteLine("-------------------------------------------------");
+
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }
