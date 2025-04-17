@@ -5,8 +5,15 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.OO
 {
+    // A classe abstrata não pode ser instanciada, mas pode ser herdada.
+    // A classe abstrata pode ter métodos abstratos (sem implementação) e métodos concretos (com implementação).
+    // A classe que herda a classe abstrata deve implementar os métodos abstratos.
+    // A classe abstrata pode ter construtores, propriedades e campos.
+    // A classe abstrata pode ter métodos virtuais (com implementação) que podem ser sobrescritos na classe derivada.
+    // A classe abstrata pode ter métodos não virtuais (sem implementação) que não podem ser sobrescritos na classe derivada.
     public class Abstract
     {
+        // Classe abstrata
         public abstract class Org
         {
             public abstract string Nome { get; set; }
@@ -18,6 +25,10 @@ namespace CursoCSharp.OO
             }
         }
 
+        // Classe que herda a classe abstrata
+        // A classe que herda a classe abstrata deve implementar os métodos abstratos.
+        // A classe que herda a classe abstrata pode sobrescrever os métodos virtuais.
+        // A classe que herda a classe abstrata pode ter seus próprios métodos e propriedades.
         public class OrgBB : Org
         {
             public override string Nome { get; set; } = "Fundação basquete brasileiro";
