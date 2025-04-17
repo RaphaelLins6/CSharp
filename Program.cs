@@ -74,7 +74,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Construtor This - OO", ConstrutorThis.Executar},
                 {"Encapsulamento - OO", CursoCSharp.OO.Encapsulamento.Executar}, // Ajuste de namespace
                 {"Polimorfismo - OO", Polimorfismo.Executar},
-                //{"Abstract - OO", Abstract.Executar},
+                {"Abstract - OO", Abstract.Executar},
                 //{"Interface - OO", Interface.Executar},
                 
             });
