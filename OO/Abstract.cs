@@ -47,6 +47,7 @@ namespace CursoCSharp.OO
         }
         public static void Executar(){
             Org Basquete = new OrgBB();
+             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("Inofrmações da Organização:");
             Console.WriteLine($"Nome: {Basquete.Nome}");
             Console.WriteLine($"Área: {Basquete.Area}");
