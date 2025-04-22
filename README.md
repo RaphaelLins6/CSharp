@@ -2,16 +2,22 @@
 
 Atividade da faculdade - Matéria: Programação de computadores
 
+---
+
 ### ❓ Problema:
     
 Este exercício tem como objetivo fornecer uma introdução prática aos conceitos básicos da lógica de programação utilizando a linguagem C#. 
 Através de exemplos e atividades, você aprenderá sobre os fundamentos da programação, tipos de dados, identificadores, expressões e operadores.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="50"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> &nbsp;&nbsp;
+
+---
 
 ### 📚 Conceitos Abordados:
 
@@ -57,6 +63,8 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
     * Tratamento de erros com `try-catch`.
     * Comentários no código e boas práticas de documentação.
 
+---
+
 ## 🚀 Como Utilizar o Repositório
 
 1. **📥 Clone este repositório:**
@@ -76,12 +84,16 @@ cd CursoCSharp
 
 5. **😄 Explore e modifique o código para testar seu conhecimento!**
 
+---
+
 ## 👥 Autores
 
 **Turma de ciência da computação - UDF**
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6) - Raphael Lins (RGM:27797660)
 - [@jotape99](https://www.github.com/jotape99) - João Pedro (RGM:28167333)
 - [@joaogkt](https://www.github.com/joaogkt) - João Gabriel (RGM:28017188)
+
+---
 
 ## 📖 Referências
 
