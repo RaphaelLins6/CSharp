@@ -80,7 +80,11 @@ cd CursoCSharp
 
 3. **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
 
-4. **▶️ Execute os arquivos .cs individualmente ou dentro de um projeto de console C#.**
+4. **▶️ Execute o seguinte comando no terminal:**
+
+```bash
+dotnet run
+```
 
 5. **😄 Explore e modifique o código para testar seu conhecimento!**
 
@@ -99,7 +103,7 @@ cd CursoCSharp
 
 * **📘 Microsoft Docs**: [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/) - Documentação oficial da linguagem C# pela Microsoft.
 * **🤖 ChatGPT, Gemini e Copilot**: Assistência e geração de código para este documento.
-* **📚 Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Curso de C# da Cod3r no GitHub.
+* **📚 Cod3r Curso C#**: [@Cod3r](https://github.com/cod3rcursos/curso-c-sharp) - Repositório no GitHub do curso de C# da Cod3r.
 
 ## 📜 Licença
 
