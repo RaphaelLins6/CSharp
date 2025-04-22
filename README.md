@@ -70,7 +70,7 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 . **📥 Baixe o Visual Studio Code**
 - [VS Code](https://code.visualstudio.com/download) - Link de download
 
-. "**📂 Crie uma pasta e abra ela no VS Code**
+. **📂 Crie uma pasta e abra ela no VS Code**
 
 . **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
 
