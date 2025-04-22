@@ -7,23 +7,55 @@ Atividade da faculdade - Matéria: Programação de computadores
 Este exercício tem como objetivo fornecer uma introdução prática aos conceitos básicos da lógica de programação utilizando a linguagem C#. 
 Através de exemplos e atividades, você aprenderá sobre os fundamentos da programação, tipos de dados, identificadores, expressões e operadores.
 
-### 📚 Conceitos Abordados:
-
-* **💻 Fundamentos da Programação**: Uma visão geral dos princípios básicos da programação, incluindo a estrutura de um programa em C# e o fluxo de controle.
-* **📊 Tipos de Dados**: Exploração dos tipos de dados primitivos em C#, como `int`, `double`, `string` e `bool`, e como utilizá-los para representar diferentes tipos de informação.
-* **🔤 Identificadores**: Regras para nomear variáveis, constantes e outros elementos do programa.
-* **🧮 Expressões**: Construção de expressões utilizando valores, variáveis e operadores para realizar cálculos e comparações.
-* **⚙️ Operadores**:
-    * **📥 Atribuição**: Utilização do operador `=` para atribuir valores a variáveis.
-    * **➕ Aritméticos**: Realização de operações matemáticas básicas como adição, subtração, multiplicação e divisão.
-    * **🔗 Relacionais**: Comparação de valores utilizando operadores como `==`, `!=`, `>`, `<`.
-    * **🔌 Lógicos**: Combinação de expressões booleanas utilizando operadores como `&&` (E), `||` (OU) e `!` (NÃO).
-
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="50"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> &nbsp;&nbsp;
+
+### 📚 Conceitos Abordados:
+
+* **💻 Fundamentos da Programação**: 
+    * Estrutura de um programa em C# e fluxo de controle.
+    * Operadores aritméticos, relacionais, lógicos, de atribuição, unários e ternários.
+    * Conversões de tipos e manipulação de strings.
+    * Uso de constantes e variáveis.
+
+* **📊 Tipos de Dados**: 
+    * Exploração de tipos primitivos como `int`, `double`, `string`, `bool`, e `char`.
+    * Diferença entre tipos de valor e tipos de referência.
+
+* **🔤 Identificadores**: 
+    * Regras para nomear variáveis, constantes, métodos e classes.
+
+* **🧮 Expressões e Operadores**:
+    * Construção de expressões utilizando valores, variáveis e operadores.
+    * Operações matemáticas básicas e cálculos de IMC.
+    * Comparações e lógica condicional.
+
+* **⚙️ Estruturas de Controle**:
+    * Estruturas condicionais: `if`, `else if`, `else`, e `switch`.
+    * Estruturas de repetição: `while`, `do-while`, `for`, e `foreach`.
+    * Controle de fluxo com `break` e `continue`.
+
+* **🏗️ Classes e Métodos**:
+    * Criação e uso de classes, métodos e construtores.
+    * Métodos com e sem retorno, métodos estáticos e parâmetros nomeados.
+    * Propriedades (`get` e `set`) e atributos `readonly` e estáticos.
+    * Diferença entre passagem por valor e por referência.
+
+* **📦 Coleções**:
+    * Manipulação de arrays, listas, filas (`Queue`), pilhas (`Stack`), e dicionários (`Dictionary`).
+    * Uso de `ArrayList` e conjuntos (`Set`).
+
+* **🧩 Orientação a Objetos**:
+    * Conceitos de herança, encapsulamento, polimorfismo e abstração.
+    * Implementação de interfaces e classes abstratas.
+
+* **🛠️ Outros Conceitos**:
+    * Notação ponto para acessar membros de objetos e classes.
+    * Tratamento de erros com `try-catch`.
+    * Comentários no código e boas práticas de documentação.
 
 ## 🚀 Como Utilizar o Repositório
 
@@ -35,7 +67,7 @@ git clone https://github.com/RaphaelLins6/CSharp.git
 2. **📂 Acesse a pasta do projeto:**
 
 ```bash
-cd nome-da-pasta
+cd CursoCSharp
 ```
 
 3. **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
