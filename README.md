@@ -67,31 +67,31 @@ Através de exemplos e atividades, você aprenderá sobre os fundamentos da prog
 
 ## 🚀 Como Utilizar o Repositório
 
-. **📥 Baixe o Visual Studio Code**
+1. **📥 Baixe o Visual Studio Code**
 - [VS Code](https://code.visualstudio.com/download) - Link de download
 
-. **📂 Crie uma pasta e abra ela no VS Code**
+2. **📂 Crie uma pasta e abra ela no VS Code**
 
-. **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
+3. **🛠️ Abra no Visual Studio (recomendado) ou outro editor de sua preferência.**
 
-. **📥 Clone este repositório nela usando o terminal**
+4. **📥 Clone este repositório nela usando o terminal**
 ```bash
 git clone https://github.com/RaphaelLins6/CSharp.git
 ```
 
-. **📂 Acesse a pasta do projeto:**
+5. **📂 Acesse a pasta do projeto:**
 
 ```bash
 cd CursoCSharp
 ```
 
-. **▶️ Execute o seguinte comando no terminal:**
+6. **▶️ Execute o seguinte comando no terminal:**
 
 ```bash
 dotnet run
 ```
 
-. **😄 Explore e modifique o código para testar seu conhecimento!**
+7. **😄 Explore e modifique o código para testar seu conhecimento!**
 
 ---
 
