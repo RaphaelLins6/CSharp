@@ -76,6 +76,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Polimorfismo - OO", Polimorfismo.Executar},
                 {"Abstract - OO", Abstract.Executar},
                 {"Interface - OO", Interface.Executar},
+                {"Sealed - OO", Sealed.Executar},
                 
             });
 
