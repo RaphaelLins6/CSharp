@@ -7,6 +7,7 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
 
 
 var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -78,6 +79,11 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Interface - OO", Interface.Executar},
                 {"Sealed - OO", Sealed.Executar},
                 
+
+                // Métodos e Funções
+                {"Métodos com Lambda - Métodos e Funções", Lambda.Executar},
+                
+
             });
 
 central.SelecionarEExecutar();
