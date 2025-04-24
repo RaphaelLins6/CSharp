@@ -14,10 +14,17 @@ namespace CursoCSharp.MetodosEFuncoes
             Operacao multiplicacao = (x, y) => x * y;
             Operacao divisao = (x, y) => x / y;
 
-            Console.WriteLine(soma(10, 5));
-            Console.WriteLine(subtracao(10, 5));
-            Console.WriteLine(multiplicacao(10, 5));
-            Console.WriteLine(divisao(10, 5));
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine("Operações com Delegates");
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine("Resultado da soma: " + soma(10, 5));
+            Console.WriteLine("Resultado da subtração: " + subtracao(10, 5));
+            Console.WriteLine("Resultado da multiplicação: " + multiplicacao(10, 5));
+            Console.WriteLine("Resultado da divisão: " + divisao(10, 5));
+
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine("Pressione Enter para continuar...");
+            Console.ReadLine();
         }
     }
 }
