@@ -16,7 +16,7 @@ namespace CursoCSharp.MetodosEFuncoes
         // (parametros) => expressao
         public static void Executar(){
 
-            // Action é um delegate que não retorna valor
+            // Action é uma função anônima que no exemplo não retorna valor
             Action outputNoConsole = () => {
                 Console.WriteLine("Olá Mundo com Lambda! Esse é sem parâmetro.");
             };
@@ -24,7 +24,7 @@ namespace CursoCSharp.MetodosEFuncoes
             outputNoConsole();
             Console.WriteLine("-------------------------------------------------");
 
-            // Func é um delegate que retorna valor
+            // Func é uma função anônima que no exemplo retorna valor
             Func<int> numeroDaSorte = () => new Random().Next(1, 1000);
             Console.WriteLine("Função com Lambda: Esse é com parâmetro.");
             Console.WriteLine($"Número da sorte: {numeroDaSorte()}");
