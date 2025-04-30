@@ -85,7 +85,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Delegate - Métodos e Funções", LambdasDelegate.Executar},
                 {"Usando Delegates - Métodos e Funções", UsandoDelegates.Executar},
                 {"Delegates com Função Anonima - Métodos e Funções", DelegateFuncAnonima.Executar},
-
+                {"Delegates como Parâmetros - Métodos e Funções", DelegatesComoParametros.Executar},
             });
 
 central.SelecionarEExecutar();
