@@ -8,6 +8,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
 
 
 var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -87,6 +88,10 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Delegates com Função Anonima - Métodos e Funções", DelegateFuncAnonima.Executar},
                 {"Delegates como Parâmetros - Métodos e Funções", DelegatesComoParametros.Executar},
                 {"Métodos de Extensão - Métodos e Funções", MetodosDeExtensao.Executar},
+
+                // Exceções
+                {"Primeira Exceção - Exceções", PrimeiraExecao.Executar},
+                
             });
 
 central.SelecionarEExecutar();
