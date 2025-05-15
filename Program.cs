@@ -91,6 +91,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
 
                 // Exceções
                 {"Primeira Exceção - Exceções", PrimeiraExecao.Executar},
+                {"Exeções Personalizadas - Exceções", ExecoesPersonalizadas.Executar},
                 
             });
 
