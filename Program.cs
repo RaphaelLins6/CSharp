@@ -9,6 +9,7 @@ using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
 
 
 var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -92,6 +93,9 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 // Exceções
                 {"Primeira Exceção - Exceções", PrimeiraExecao.Executar},
                 {"Exeções Personalizadas - Exceções", ExecoesPersonalizadas.Executar},
+                
+                // Api
+                {"Primeiro Arquivo - Api", PrimeiroArquivo.Executar},
                 
             });
 
