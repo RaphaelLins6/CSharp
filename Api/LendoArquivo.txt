@@ -1,0 +1,2 @@
+Esse arquivo foi criado para ser
+lido no exercício de Lendo Arquivo!!!

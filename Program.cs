@@ -96,7 +96,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 
                 // Api
                 {"Primeiro Arquivo - Api", PrimeiroArquivo.Executar},
-                
+                {"Lendo Arquivo - Api", LendoArquivo.Executar},
             });
 
 central.SelecionarEExecutar();
