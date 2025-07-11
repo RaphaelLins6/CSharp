@@ -100,6 +100,7 @@ var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Usando FileInfo - Api", FilesInfo.Executar},
                 {"Diretórios - Api", Diretorios.Executar},
                 {"Diretórios Info - Api", ExemploDirInfo.Executar},
+                {"Path - Api", ExemploPath.Executar},
             });
 
 central.SelecionarEExecutar();
